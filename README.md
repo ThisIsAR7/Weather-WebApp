@@ -9,7 +9,8 @@ This Weather App allows users to get current weather information for any city [A
 - [Usage](#usage)
 
 ## Demo
-You can view a live demo of the app [here]().
+
+To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
 - Display current weather information for a specified city.
