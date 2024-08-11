@@ -1,5 +1,5 @@
 # Weather App
-9
+
 This Weather App allows users to get current weather information for any city [AR7](https://arvinrezaei.com/). It fetches data from the OpenWeatherMap API and displays the temperature, humidity, wind speed, and appropriate weather icons based on the weather conditions. The app also handles invalid city names by showing an error message.
 
 ## Table of Contents
@@ -9,7 +9,6 @@ This Weather App allows users to get current weather information for any city [A
 - [Usage](#usage)
 
 ## Demo
-
 To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
