@@ -6,6 +6,7 @@ This Weather App allows users to get current weather information for any city [A
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
+-  [Usage](#usage)
 
 ## Demo
 
