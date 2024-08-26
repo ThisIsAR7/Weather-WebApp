@@ -21,7 +21,7 @@ async function checkWeather(city){
         if(data.weather[0].main == "Clouds"){
             weatherIcon.src = "css/img/clouds.webp";
         } else if (data.weather[0].main == "Clear"){
-            weatherIcon.src = "css/img/clear.png";
+            weatherIcon.src = "css/img/clear.webp";
         } else if(data.weather[0].main == "Rain"){
             weatherIcon.src = "css/img/rain.png";
         } else if(data.weather[0].main == "Drizzle"){
