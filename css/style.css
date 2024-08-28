@@ -8,7 +8,7 @@ body {
     justify-content: start;
     align-items: self-start;
     min-height: 100vh;
-    background:  url(img/bg.jpg);
+    background:  url(img/bg.webp);
     background-size: cover;
     background-position: center;
 }
